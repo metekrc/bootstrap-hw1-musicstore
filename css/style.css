@@ -1,0 +1,36 @@
+/*** header part  ***/
+
+.unstyle-li {
+    list-style-type: none;
+}
+
+.inline-li li {
+    display: inline;
+}
+
+.nav-bg {
+    background-color: rgb(49, 49, 49);
+}
+
+.nav-w {
+    color: white;
+}
+
+.left {
+    margin-left: 8px;
+}
+
+.gd-color {
+    color: darkgoldenrod;
+} 
+
+ul {
+    list-style-position: inside;
+}
+
+.hd-color {
+    color: rgb(150, 75, 221);
+}
+.mg-px {
+    margin: 6px 13px;
+}
